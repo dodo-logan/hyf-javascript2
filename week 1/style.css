@@ -1,0 +1,22 @@
+*{
+    text-align: center
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+   list-style-type:none;
+}
+li{
+    border: 2px solid blueviolet;
+    border-radius: 25px;
+    margin: 20px;
+    box-shadow: 10px 10px 10px rgb(152, 9, 209);
+    width: 46%;
+}
+#header{
+    font-size: 30px
+    font-style : fantasy;
+}
+li h1{
+  font-size: 40px
+}
